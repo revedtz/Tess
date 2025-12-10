@@ -1,84 +1,52 @@
-{
-  "apps": [
+[
     {
-      "name": "Mobile Legends",
-      "package": "com.mobile.legends",
-      "icon": "https://i.imgur.com/2yaf2Wl.png",
-      "download": "https://example.com/mobilelegends.apk",
-      "version": "1.8.12",
-      "size": "150 MB"
+        "name": "APK 1",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk1.apk"
     },
     {
-      "name": "Free Fire",
-      "package": "com.dts.freefireth",
-      "icon": "https://i.imgur.com/MDLqU9c.png",
-      "download": "https://example.com/freefire.apk",
-      "version": "1.102.1",
-      "size": "300 MB"
+        "name": "APK 2",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk2.apk"
     },
     {
-      "name": "PUBG Mobile",
-      "package": "com.tencent.ig",
-      "icon": "https://i.imgur.com/ZxWuvfp.png",
-      "download": "https://example.com/pubg.apk",
-      "version": "3.2.0",
-      "size": "2.1 GB"
+        "name": "APK 3",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk3.apk"
     },
     {
-      "name": "Minecraft",
-      "package": "com.mojang.minecraftpe",
-      "icon": "https://i.imgur.com/8teiC0w.png",
-      "download": "https://example.com/minecraft.apk",
-      "version": "1.21.0",
-      "size": "250 MB"
+        "name": "APK 4",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk4.apk"
     },
     {
-      "name": "GTA SA",
-      "package": "com.rockstargames.gtasa",
-      "icon": "https://i.imgur.com/dXpSMb3.png",
-      "download": "https://example.com/gtasa.apk",
-      "version": "2.10",
-      "size": "2.4 GB"
+        "name": "APK 5",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk5.apk"
     },
     {
-      "name": "TikTok",
-      "package": "com.zhiliaoapp.musically",
-      "icon": "https://i.imgur.com/ibD3bMx.png",
-      "download": "https://example.com/tiktok.apk",
-      "version": "35.1.3",
-      "size": "160 MB"
+        "name": "APK 6",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk6.apk"
     },
     {
-      "name": "Instagram",
-      "package": "com.instagram.android",
-      "icon": "https://i.imgur.com/Ndi3xH1.png",
-      "download": "https://example.com/instagram.apk",
-      "version": "320.0.0",
-      "size": "120 MB"
+        "name": "APK 7",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk7.apk"
     },
     {
-      "name": "WhatsApp",
-      "package": "com.whatsapp",
-      "icon": "https://i.imgur.com/Yg0q3Zj.png",
-      "download": "https://example.com/whatsapp.apk",
-      "version": "2.24.3",
-      "size": "70 MB"
+        "name": "APK 8",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk8.apk"
     },
     {
-      "name": "YouTube",
-      "package": "com.google.android.youtube",
-      "icon": "https://i.imgur.com/8GaT0hc.png",
-      "download": "https://example.com/youtube.apk",
-      "version": "19.01.3",
-      "size": "150 MB"
+        "name": "APK 9",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk9.apk"
     },
     {
-      "name": "CapCut",
-      "package": "com.lemon.lvoverseas",
-      "icon": "https://i.imgur.com/QSE7e4p.png",
-      "download": "https://example.com/capcut.apk",
-      "version": "10.4.1",
-      "size": "250 MB"
+        "name": "APK 10",
+        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "download": "https://example.com/apk10.apk"
     }
-  ]
-}
+]
