@@ -1,16 +1,16 @@
 [
   {
-    "id": "app1",
     "name": "DuplicateModz",
     "developer": "Xalrath Studio",
     "rating": 4.8,
     "downloads": 1200,
-    "category": "Tools",
     "description": "Aplikasi mod downloader cepat, aman, dan tanpa iklan.",
-    "images": [
-      "https://via.placeholder.com/600x300/ff0000/ffffff?text=Screenshot+1",
-      "https://via.placeholder.com/600x300/000000/ffffff?text=Screenshot+2"
-    ],
-    "apk_url": "https://example.com/duplicate.apk"
+    "icon": "https://raw.githubusercontent.com/revedtz/Tess/main/images/duplicate.png",
+    "download": "https://example.com/duplicate.apk",
+    "category": "Tools",
+    "screenshots": [
+      "https://raw.githubusercontent.com/revedtz/Tess/main/images/ss1.png",
+      "https://raw.githubusercontent.com/revedtz/Tess/main/images/ss2.png"
+    ]
   }
 ]
